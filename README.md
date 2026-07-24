@@ -26,12 +26,12 @@ The analysis is based on a dataset of 1,000+ sales records containing the follow
    * Designed a dynamic dashboard featuring conditional formatting (heat maps) and drill-down capabilities by Quarter.
 
 ## 💡 Key Business Insights
-* **Regional Leadership:** [Insert your finding about the top region/rep here].
-* **Channel Performance:** [Insert finding about Retail vs. Online sales here].
-* **Margin Erosion:** Discovered that transactions flagged with a `Discount_Issue_Flag` accounted for [Insert % or $ amount] in revenue, negatively impacting the overall profit margin by [Insert %]. 
+* **Regional Leadership:** The West and East regions drive the highest total revenue, but are severely impacted by negative profit margins across all sales representatives.
+* **Channel Performance:** The Online sales channel outperforms Retail in total revenue across almost all product categories, particularly in Clothing and Electronics.
+* **Margin Erosion:** Discovered that transactions flagged with a 'Discount_Issue_Flag' accounted for **$40.28M (67.49%)** in revenue, negatively impacting the overall profit margin and driving the entire portfolio to a **-7%** loss. 
 
 ## 🖼️ Dashboard Preview
-![Insert an image of your Power BI Dashboard here](link_to_your_dashboard_image.png)
+
 
 ## 🚀 How to Run the SQL Queries
 1. Download the `clean_sales_data.csv` file from this repository.
