@@ -31,7 +31,7 @@ The analysis is based on a dataset of 1,000+ sales records containing the follow
 * **Margin Erosion:** Discovered that transactions flagged with a 'Discount_Issue_Flag' accounted for **$40.28M (67.49%)** in revenue, negatively impacting the overall profit margin and driving the entire portfolio to a **-7%** loss. 
 
 ## 🖼️ Dashboard Preview
-
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/4e56e334-01c5-45fe-ac6b-585b8cf2b7f9" />
 
 ## 🚀 How to Run the SQL Queries
 1. Download the `clean_sales_data.csv` file from this repository.
